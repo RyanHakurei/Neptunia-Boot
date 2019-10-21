@@ -1,7 +1,6 @@
-id=RR-O-boot
-name=Resurrection Remix Oreo Boot
-version=1.2
-versionCode=3
-author=V10lator
-description=The boot animation of RR 6
-support=https://github.com/V10lator/RR-O-boot
+id=Nep-Boot
+name=Neptunia Bootanimation
+version=1.0
+versionCode=1
+author=Ryaniskira & u/JazzChin18
+description=A Hyperdimension themed boot animation
